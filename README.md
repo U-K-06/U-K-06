@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-khajuria-495b8831a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UK_06__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utkarsh7khajuria8@gmail.com) 
 
-# 💻 Tech Stack:
+# 💻 Tech i have worked with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
