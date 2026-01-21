@@ -3,7 +3,28 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utkarsh-khajuria-495b8831a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/UK_06__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utkarsh7khajuria8@gmail.com) 
+
+<p align="center">
+  <span style="display:inline-block;margin:0 15px;">
+    <a href="https://linkedin.com/in/utkarsh-khajuria-495b8831a">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" style="height:40px"/>
+    </a>
+  </span>
+
+  <span style="display:inline-block;margin:0 15px;">
+    <a href="https://x.com/UK_06__">
+      <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X" style="height:40px"/>
+    </a>
+  </span>
+
+  <span style="display:inline-block;margin:0 15px;">
+    <a href="mailto:utkarsh7khajuria8@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="height:40px"/>
+    </a>
+  </span>
+</p>
+
+
 
 # 💻 Tech i have worked with:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
