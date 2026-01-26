@@ -13,8 +13,18 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:utkarsh7khajuria8@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/U-K-06">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB.svg?logo=codeforces&logoColor=white" alt="Codeforces" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/uk-06/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white" alt="LeetCode" height="60"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.codewars.com/users/UK-06">
+    <img src="https://img.shields.io/badge/Codewars-000000.svg?logo=codewars&logoColor=red" alt="Codewars" height="60"/>
   </a>
 </p>
+
 
 
 
