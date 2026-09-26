@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on My own Personal Blog site!<br><br>🌱 I’m currently learning Nextjs, DSA<br><br>💬 Ask me about Python, Javascript, React,<br><br>📫 How to reach me utkarsh7khajuria8@gmail.com<br><br>⚡ Fun fact I love simple code
+🔭 I’m currently working on My own Image Editor!<br><br>🌱 I’m currently learning Nextjs, DSA<br><br>💬 Ask me about Python, Javascript, React,<br><br>📫 How to reach me utkarsh7khajuria8@gmail.com<br><br>⚡ Fun fact I love simple code
 
 
 ## 🌐 Socials:
